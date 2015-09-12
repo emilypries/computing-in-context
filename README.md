@@ -1,8 +1,8 @@
 # COMS1002 - Computing in Context
 Information for the Digital Humanities discussion section.
 
-### Recitation #1 - 9/11/15
-Today we are setting up our computers so that we can spend the semester having fun writing code instead of worrying about where our files are saved or why we can't run a program. We will:
+### Recitation 1
+9/11/15 - Today we are setting up our computers so that we can spend the semester having fun writing code instead of worrying about where our files are saved or why we can't run a program. We will:
 
 - Learn [bash commands](#basic-terminal-commands) to navigate through Terminal
 - [Install Anaconda](#installing-anaconda)
