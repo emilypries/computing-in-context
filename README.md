@@ -1,6 +1,73 @@
 # COMS1002 - Computing in Context
 Information for the Digital Humanities discussion section.
 
+### Recitation 2
+9/18/15 - Today we are setting up our personal web pages and practicing writing and executing Python scripts. The instructions for setting up your web page are on Courseworks under Syllabus -> "Files, Unix, and making a webpage."
+
+Three practice programs follow:
+- [Edsger and the Philosophers](#edsger-and-the-philosophers)
+- [Richards GNU Zoo](#richards-gnu-zoo)
+- [Grace Bugs Out](#grace-bugs-out)
+
+###### Edsger and the Philosophers
+Edsger is planning a dinner party for five Dining Philosophers, but he has no forks. Unfortunately, the philosophers are all silent, so he needs your help to write a program to communicate with them. Design a program that allows him to individually ask each philosopher how many forks they will bring to the dinner party and then tell Edsger how many total forks he can expect.
+
+Follow up questions:
+- What are you assuming about the input?
+- Are your assumptions valid?
+- What is the most useful format for output?
+
+Creative step:
+- Modify your program to provide more information of your choosing. You are welcome to collect further input. Possibilities include:
+	- Average number of forks per philosopher
+	- The number of tines the philosophers will bring
+	- The maximum (or minimum) number of forks a philosopher will bring
+	- How many forks too many or too few will there be?
+- Modify your program in a way of your choosing!
+
+Bonus:
+- Who is Edsger?
+- Who are the Dining Philosphers?
+
+###### Richard's GNU Zoo
+Richard started a gnu zoo in 1983. Every year, he gets 10 new gnus. Write a program that calculates how many gnus are in Richard's gnu zoo in a given year (must take year as input).
+
+Follow up questions:
+- What are you assuming about the input?
+- Are your assumptions valid?
+- What is the most useful format for output?
+
+Creative step:
+- Modify your program to account for an annual death rate of 10% of the current pack.
+	- Can you have a fraction of a gnu?
+- Modify your program to calculate how many gnus would be in the zoo if the pack doubled every year.
+- Modify your program to calculate the average age of gnu (this is much easier if you do not include a death rate)
+- Modify your program in a way of your choosing!
+
+Bonus:
+- Who is Richard?
+- What is GNU? Why 1983?
+
+###### Grace Bugs Out
+Grace wants to catch a moth that she sees every day at 7:00PM. Write a program that tells Grace how long until she can see the moth given a time as input (you can decide how Grace must write the time).
+
+Follow up questions:
+- What are you assuming about the input?
+- Are your assumptions valid?
+- What is the most useful format for output?
+
+Creative step:
+- Modify your program to also tell her how long it has been since she last saw the moth.
+- Modify your program to allow Grace to also input a new time that the moth will appear and calculate accordingly.
+- Grace first saw the moth on January 1st, 1947, and has seen it daily since. Write a program that takes a year as input and calculates how many times she has seen the moth.
+- Modify your program in a way of your choosing!
+
+Bonus:
+- Who is Grace?
+- What moth-related term did she coin, and what does it mean?
+
+
+
 ### Recitation 1
 9/11/15 - Today we are setting up our computers so that we can spend the semester having fun writing code instead of worrying about where our files are saved or why we can't run a program. We will:
 
