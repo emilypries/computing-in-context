@@ -1,6 +1,44 @@
 # COMS1002 - Computing in Context
 Information for the Digital Humanities discussion section.
 
+### Recitation 10
+11/12/15 - In a group of two or three, select a text from [Project Gutenberg](www.gutenberg.org) and save it as a .txt file using curl. Clean and normalize the text appropriately; this may/may not include removing punctuation, setting everything in lower case, trimming a license, etc.
+
+Then, do one of the following projects of your choosing:
+
+- **Describing the Whale:**
+    - Create a frequency dictionary of the words that come before specified word. (For Moby Dick, you might choose "whale.")
+    - What are the most common words?
+    - Remove articles such as 'the' and 'a' (and any other words you choose) from your dictionary. What are the most common _interesting_ words? 
+    - Compare two words: Create a separate frequency dictionary for each of the words and use Python to identify which of the top words they have in common. You'll have to decide if its enough that a word appears before both words just once.
+    - Compare ten words (of your choosing - choose wisely), and identify which word is most similar to each of the other words.
+    
+   
+- **Merely Players:**
+    - Note: this project is better suited for fiction or non-fiction about people.
+    - Identify the characters in the text (think about how you can do this without prior knowledge of their names!).
+    - Who are the main characters? How do you know?
+    - Replace the three main characters with the names of the people in your group.
+    - Create your own (likely nonsensical) short story for each person in your group by concatenating 10 random lines of the text that contain that person's name.
+    
+   
+- **Top Chef: DH Edition:**
+    - Choose a cookbook for this project. "Foods That Will Win The War And How To Cook Them" and the "Pennsylvania Dutch Cooking" are good options on Project Gutenberg, but whichever book you choose, be sure that it is in a format you are comfortable parsing.
+    - Identify the most common ingredients in the cookbook. (How can you tell if something is an ingredient?)
+    - Create your own recipe by randomly choosing a set of ingredients. Include amounts of each ingredient.
+    - Add instructions by adding instruction lines that include only the ingredients you chose (for example, if your recipe does not include potatoes, you cannot "Bake the potatoes for 30 minutes").
+    - Alter your instructions to use each ingredient only once.
+    - Generate a title for your dish based on its ingredients or instructions.
+    
+It is OK if you do not finish every sub-point of a project. You should also feel free to get creative and do something beyond what is asked or combine aspects of multiple projects.
+
+Be prepared to share your project with another group or the class. When presenting, be sure to address:
+- What assumptions did you make about your text? Why are they valid and/or incomplete?
+- What is your methodology (in plain English)?
+- What claims are you making based on your analysis? How do you support those claims?
+- Share any interesting discoveries or creations!
+    
+
 ### Recitation 2
 9/18/15 - Today we are setting up our personal web pages and practicing writing and executing Python scripts. The instructions for setting up your web page are on Courseworks under Syllabus -> "Files, Unix, and making a webpage."
 
