@@ -2,7 +2,7 @@
 Information for the Digital Humanities discussion section.
 
 ### Recitation 10
-11/12/15 - In a group of two or three, select a text from [Project Gutenberg](www.gutenberg.org) and save it as a .txt file using curl. Clean and normalize the text appropriately; this may/may not include removing punctuation, setting everything in lower case, trimming a license, etc.
+11/12/15 - In a group of two or three, select a text from [Project Gutenberg](http://www.gutenberg.org) and save it as a .txt file using curl. Clean and normalize the text appropriately; this may/may not include removing punctuation, setting everything in lower case, trimming a license, etc.
 
 Then, do one of the following projects of your choosing:
 
